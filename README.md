@@ -1,7 +1,7 @@
 
 ### Hi! My name is Abd Domingos :sunny: (Arfe).  
 
-- :briefcase: I’m currently working at Pescamoz LDA :fish:.
+- :briefcase: I’m currently working at Pescamoz LDA 🐟.
 - 🌱 I’m currently learning AWS Lambda
 - 🤔 I’m working with C# .Net Core, VB .NET & PHP
 - 💬 Ask me about software development
