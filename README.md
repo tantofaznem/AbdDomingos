@@ -17,19 +17,15 @@
   <img align="center" alt="Abd-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Abd-PHP" height="30" width="40"  
 src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="Abd-Nginx" height="30" width="40"    
-src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
+  <img align="center" alt="Abd-Apache" height="30" width="40"    
+src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg">
  <img align="center" alt="Abd-Laravel" height="30" width="40"  
-src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel.svg">
+src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="Abd-Mysql" height="30" width="40"  
 src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Abd-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Abd-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Abd-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="Abd-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Abd-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Abd-Python" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Abd-Googlecloud" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
    <img align="center" alt="Abd-Google" height="30" width="40"
