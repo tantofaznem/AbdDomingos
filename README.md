@@ -1,9 +1,9 @@
 
 ### Hi! My name is Abd Domingos (Arfe).  
 
-- 🔭 I’m currently working on Pescamoz Lda.
-- 🌱 I’m currently learning Azure Devops
-- 🤔 I’m working with C# .Net Core
+- :construction_worker: I’m currently working on Pescamoz Lda.
+- 🌱 I’m currently learning AWS Lambda
+- 🤔 I’m working with C# .Net Core, VB .NET & PHP
 - 💬 Ask me about software development
 - 📫 How to reach me: abd.domingos@outlook.com
 
