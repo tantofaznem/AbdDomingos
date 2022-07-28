@@ -19,8 +19,6 @@
 src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Abd-Apache" height="30" width="40"    
 src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg">
- <img align="center" alt="Abd-Laravel" height="30" width="40"  
-src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="Abd-Mysql" height="30" width="40"  
 src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Abd-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
