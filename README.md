@@ -1,5 +1,5 @@
 
-### Hi! My name is Abd Domingos ☀️ (Arfe).  
+### ✨ Hi! My name is Abd Domingos ☀️ (Arfe).  
 
 - 💼 I’m currently working at Pescamoz LDA 🐟.
 - 📖 I’m currently learning AWS Lambda
