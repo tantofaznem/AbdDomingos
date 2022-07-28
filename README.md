@@ -2,11 +2,11 @@
 ### Hi! My name is Abd Domingos ☀️ (Arfe).  
 
 - 💼 I’m currently working at Pescamoz LDA 🐟.
-- 🌱 I’m currently learning AWS Lambda
+- :book: I’m currently learning AWS Lambda
 - 🤔 I’m working with C# .Net Core, VB .NET & PHP
 - 💬 Ask me about software development
 - 📫 How to reach me: abd.domingos@outlook.com
-- :coffee: BUY ME A COFFEE: https://www.buymeacoffee.com/abddomingos
+- ☕ BUY ME A COFFEE: https://www.buymeacoffee.com/abddomingos
 
  <div>
   <a href="https://github.com/tantofaznem">
