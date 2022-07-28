@@ -1,11 +1,12 @@
 
-### Hi! My name is Abd Domingos (Arfe).  
+### Hi! My name is Abd Domingos :sunny: (Arfe).  
 
-- :briefcase: I’m currently working on Pescamoz Lda.
+- :briefcase: I’m currently working at Pescamoz LDA :fish:.
 - 🌱 I’m currently learning AWS Lambda
 - 🤔 I’m working with C# .Net Core, VB .NET & PHP
 - 💬 Ask me about software development
 - 📫 How to reach me: abd.domingos@outlook.com
+- 
 
  <div>
   <a href="https://github.com/tantofaznem">
