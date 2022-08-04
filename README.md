@@ -1,12 +1,13 @@
 
 ### ✨ Hi! My name is Abd Domingos ☀️ (Arfe).  
 
-- 💼 I’m currently working at Pescamoz LDA 🐟.
-- 📖 I’m currently learning AWS Lambda
-- 🤔 I’m working with C# .Net Core, VB .NET & PHP
-- 💬 Ask me about software development
-- 📫 How to reach me: abd.domingos@outlook.com
-- ☕ BUY ME A COFFEE: https://www.buymeacoffee.com/abddomingos
+- 👷🏽‍♂️ Company: Pescamoz LDA 🐟.
+- 📖 Learning AWS Lambda
+- 🤔 Working with C# .Net Core, VB .NET & PHP
+- 
+- 💬 I can fix networks and servers too
+- 📫 Share ideas?: [EMAIL](mailto:abd.domingos@outlook.com)
+- ☕ [BUY ME A COFFEE](https://www.buymeacoffee.com/abddomingos) ##😏
 
  <div>
   <a href="https://github.com/tantofaznem">
@@ -44,3 +45,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fas
   ![Snake animation](https://github.com/tantofaznem/AbdDomingos/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+[^*] :mozambique:
