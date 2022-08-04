@@ -4,7 +4,6 @@
 - 👷🏽‍♂️ Company: Pescamoz LDA 🐟.
 - 📖 Learning AWS Lambda
 - 🤔 Working with C# .Net Core, VB .NET & PHP
-- 
 - 💬 I can fix networks and servers too
 - 📫 Share ideas?: [EMAIL](mailto:abd.domingos@outlook.com)
 - ☕ [BUY ME A COFFEE](https://www.buymeacoffee.com/abddomingos) ##😏
