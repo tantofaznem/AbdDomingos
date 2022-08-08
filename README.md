@@ -13,7 +13,7 @@
 - 📫 Share ideas?: [EMAIL](mailto:abd.domingos@outlook.com)
 - ☕ [BUY ME A COFFEE](https://www.buymeacoffee.com/abddomingos) 😏
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tantofaznem&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tantofaznem&theme=github)
 
 ## <summary><b>Summary</b></summary>
  <div>
@@ -46,8 +46,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fas
 ## <summary><b>Achievements</b></summary>
 ![trophy](https://github-profile-trophy.vercel.app/?username=tantofaznem)
 
-
-## <summary><b>Random Stuff</b></summary>
 
  ![Snake animation](https://github.com/tantofaznem/AbdDomingos/blob/output/github-contribution-grid-snake.svg)
 
