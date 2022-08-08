@@ -13,13 +13,13 @@
 - 📫 Share ideas?: [EMAIL](mailto:abd.domingos@outlook.com)
 - ☕ [BUY ME A COFFEE](https://www.buymeacoffee.com/abddomingos) 😏
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tantofaznem&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tantofaznem&theme=github) ![(https://github-readme-stats.vercel.app/api/top-langs/?username=tantofaznem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## <summary><b>Summary</b></summary>
  <div>
   <a href="https://github.com/tantofaznem">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tantofaznem&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tantofaznem&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tantofaznem&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tantofaznem&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
 
