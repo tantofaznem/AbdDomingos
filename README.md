@@ -12,7 +12,7 @@
 - 💬 I can fix networks and servers too
 - 📫 Share ideas?: [EMAIL](mailto:abd.domingos@outlook.com)
 - ☕ [BUY ME A COFFEE](https://www.buymeacoffee.com/abddomingos) 😏
-<p align="left"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tantofaznem&theme=github alt="Abd Domingos" align = "left"/></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tantofaznem&theme=github)
 
 ## <summary><b>Summary</b></summary>
  <div>
