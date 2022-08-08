@@ -46,4 +46,4 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fas
 </div>
 
 ### 🌟Achievements 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tantofaznem)
+[trophy](https://github-profile-trophy.vercel.app/?username=tantofaznem)
