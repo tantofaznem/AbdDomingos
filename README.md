@@ -13,7 +13,7 @@
 - 📫 Share ideas?: [EMAIL](mailto:abd.domingos@outlook.com)
 - ☕ [BUY ME A COFFEE](https://www.buymeacoffee.com/abddomingos) 😏
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tantofaznem&theme=github) ![(https://github-readme-stats.vercel.app/api/top-langs/?username=tantofaznem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tantofaznem&theme=github) 
 
 ## <summary><b>Summary</b></summary>
  <div>
