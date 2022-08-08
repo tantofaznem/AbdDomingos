@@ -45,4 +45,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fas
  
 </div>
 
-[^*] :mozambique:
+### 🌟Achievements 
+[![trophy](https://github-profile-trophy.vercel.app/?username=tantofaznem)](https://github.com/tantofaznem/github-profile-trophy)
