@@ -3,7 +3,7 @@
 
 
 
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tantofaznem&theme=algolia" alt="Abd Domingos" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tantofaznem&theme=github-light" alt="Abd Domingos" align = "center"/></p>
 
 ## <summary><b>🌟 Profile</b></summary>
 - 👷🏽‍♂️ Company: Pescamoz LDA 🐟.
