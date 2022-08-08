@@ -3,7 +3,7 @@
 
 ## <summary><b>🌟 Profile</b></summary>
 
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edilsonmatola&theme=github_dark" alt="edilsonmatola-profile-details" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tantofaznem&theme=algolia" alt="edilsonmatola-profile-details" align = "center"/></p>
 
 - 👷🏽‍♂️ Company: Pescamoz LDA 🐟.
 - 📖 Learning AWS Lambda
