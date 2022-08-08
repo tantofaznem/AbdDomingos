@@ -1,10 +1,11 @@
 
 # ✨ Hi! My name is Abd Domingos ☀️ (Arfe).  
 
+
+
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tantofaznem&theme=algolia" alt="Abd Domingos" align = "center"/></p>
+
 ## <summary><b>🌟 Profile</b></summary>
-
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tantofaznem&theme=algolia" alt="edilsonmatola-profile-details" align = "center"/></p>
-
 - 👷🏽‍♂️ Company: Pescamoz LDA 🐟.
 - 📖 Learning AWS Lambda
 - 🤔 Working with C# .Net Core, VB .NET & PHP
@@ -14,7 +15,6 @@
 
 
 ## <summary><b>Summary</b></summary>
-
  <div>
   <a href="https://github.com/tantofaznem">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tantofaznem&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -23,7 +23,6 @@
 <div style="display: inline_block"><br>
 
 ## <summary><b>I can work with</b></summary>
- 
   <img align="center" alt="Abd-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Abd-PHP" height="30" width="40"  
 src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
@@ -49,11 +48,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fas
 
 ## <summary><b>Random Stuff</b></summary>
 <div> 
-
   <a href="https://www.linkedin.com/in/AbdDomingos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
   ![Snake animation](https://github.com/tantofaznem/AbdDomingos/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
 
