@@ -42,6 +42,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/goog
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
      <img align="center" alt="Abd-FastApi" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
+ <img align="center" alt="Abd-MatLab" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
 
 ## <summary><b>Achievements</b></summary>
 ![trophy](https://github-profile-trophy.vercel.app/?username=tantofaznem)
